@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Data & Output (if any are generated inside the repo)
+data/
+*.csv
+*.tif
+*.tiff
+outputs/
+figures/
+
+# Personal / Assignment requirements
+作业要求.txt
